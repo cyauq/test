@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5892657518964704367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5472247657023680729}
+  - component: {fileID: 542701478822722590}
+  - component: {fileID: 664407948}
+  m_Layer: 0
+  m_Name: SuraTechAPI
+  m_TagString: SuraTechAPI
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5472247657023680729
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5892657518964704367}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &542701478822722590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5892657518964704367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 820cc13f5a63545e49d1d8d18cf0592d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loginData:
+    status: 
+    message: 
+    data: 
+    member_info:
+      id_member: 
+      user_member: 
+      member_session_update: 
+      data_role: 
+      permission: 
+      id_data_role: 
+      parent_id: 
+    user_info:
+      id_customer: 
+      assigned_dr: 
+      fname: 
+      lname: 
+      telephone: 0
+      code: 
+      sex: 
+      img_path: 
+      email: 
+      discount: 0
+      id_facebook: 
+      id_google: 
+      id_twitter: 
+      type: 
+      height: 0
+      weight: 0
+      age: 0
+      congenital_disease_flg: 0
+      congenital_disease: 
+      emergency_contract: 
+      qrcode: 
+      image: 
+  registerData:
+    status: 
+    message: 
+    data: 
+    member_info:
+      id_member: 
+      user_member: 
+      member_session_update: 
+      data_role: 
+      permission: 
+      id_data_role: 
+      parent_id: 
+    user_info:
+      id_customer: 
+      assigned_dr: 
+      fname: 
+      lname: 
+      telephone: 0
+      code: 
+      sex: 
+      img_path: 
+      email: 
+      discount: 0
+      id_facebook: 
+      id_google: 
+      id_twitter: 
+      type: 
+      height: 0
+      weight: 0
+      age: 0
+      congenital_disease_flg: 0
+      congenital_disease: 
+      emergency_contract: 
+      qrcode: 
+      image: 
+  saveDataList:
+    status: 
+    message: 
+    data:
+      game_id: 0
+      user_id: 
+      total_score: 0
+      distance: 0
+      timer_gameplay: 0
+      timestamp: 
+      bonus_fail: 0
+      bonus_success: 0
+      mission_id: 0
+      mission_name: 
+  getDataList:
+    status: 
+    message: 
+    data:
+      status: 
+      current_page: 0
+      data: []
+      first_page_url: 
+      from: 0
+      last_page: 0
+      last_page_url: 
+      next_page_url: 
+      path: 
+      per_page: 0
+      perv_page_url: 
+      to: 0
+      total: 0
+--- !u!114 &664407948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5892657518964704367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0599ade7242174f6dad4c376ae0f48e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

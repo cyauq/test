@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00_Landing.unity
+    guid: 4b5113143dc1747d5b2608301a529142
+  - enabled: 1
+    path: Assets/Scenes/01_Register.unity
+    guid: 2403fd0db5cdf4e70bdc0f44db950a80
+  - enabled: 1
+    path: Assets/Scenes/02_Login.unity
+    guid: 8f5631ac30c8e4d84bb04218f484f8f1
+  - enabled: 1
+    path: Assets/Scenes/03_Mission1.unity
+    guid: c39bdd0ab7ca1478c9fa93e4255deacc
+  - enabled: 1
+    path: Assets/Scenes/03_Mission2.unity
+    guid: 5a85c64e9c0e946eabe85a3fa40b8cfe
+  - enabled: 1
+    path: Assets/Scenes/03_Mission3.unity
+    guid: 779d747d75eac4c8180501278babbf33
+  - enabled: 1
+    path: Assets/Scenes/03_Mission4.unity
+    guid: 47d3e4b4ff0234c14bf6c259cdb31916
+  - enabled: 1
+    path: Assets/Scenes/03_Mission5.unity
+    guid: 9934d29db3e354d82907f04179bfd867
+  - enabled: 1
+    path: Assets/Scenes/03_Mission6.unity
+    guid: f31d93a1559144eceac12e4db2d79ba3
+  - enabled: 1
+    path: Assets/Scenes/04_ConnectDevice.unity
+    guid: a4d62c380aada42deabd20b2f1c61c18
+  - enabled: 1
+    path: Assets/Scenes/05_Analytic.unity
+    guid: 975f4ece98f004adcbf14365735e13bb
+  - enabled: 1
+    path: Assets/Scenes/06_SelecteMissionRuner.unity
+    guid: 0e6a85cc37f424ae1a65ba8fe635e6e0
+  - enabled: 1
+    path: Assets/Scenes/06_SelecteMissionMaze.unity
+    guid: 208882b47adb54f0bb35849502980146
+  - enabled: 1
+    path: Assets/Scenes/06_SelecteMissionMaze_AI.unity
+    guid: 7b99d7548a70af342b1442549f183bb3
+  - enabled: 1
+    path: Assets/Scenes/06_SelecteMissionMaze_MazeAI.unity
+    guid: 711123abd3ee15d46808814c927b0c7d
+  - enabled: 1
+    path: Assets/Scenes/06_Show scor_AI_Q1.unity
+    guid: 388c7ac0b69b4d049afe6833253e62a6
+  - enabled: 1
+    path: Assets/Scenes/06_Show scor_AI_Q2.unity
+    guid: 26bc2a5a678b5694ea7ecee50c12fcc8
+  - enabled: 1
+    path: Assets/Scenes/06_Show scor_AI_Q3.unity
+    guid: c409772705d75004d9a35f1fa10d3ab9
+  - enabled: 1
+    path: Assets/Scenes/06_Show scor_AI_Q4.unity
+    guid: c94a299e30c258e4a9b2396d32ef312a
+  - enabled: 1
+    path: Assets/Scenes/06_Show scor_AI_Q0.unity
+    guid: cff6be8a78628344b8b3829a7428a36f
+  - enabled: 1
+    path: Assets/Scenes/06_Showgraphplayer.unity
+    guid: 38ab33c6e67c4a048b2a24822f4cc6e2
+  - enabled: 1
+    path: Assets/Scenes/11_CalibationMaze_AI 1.unity
+    guid: 379152657b583124da17d11e6d051fec
+  - enabled: 1
+    path: Assets/Scenes/07_SelecteGame.unity
+    guid: 69d330eccca8d452e897077831d788aa
+  - enabled: 1
+    path: Assets/Scenes/07_Selecte_lvScore.unity
+    guid: 2af4ef54e5491f542b53713e534cd420
+  - enabled: 1
+    path: Assets/Scenes/08_maze0.unity
+    guid: b5309c653ff3b458dab46255b8ce8c30
+  - enabled: 1
+    path: Assets/Scenes/08_maze1.unity
+    guid: 89b76c91deac34881a7875ddc87e235c
+  - enabled: 1
+    path: Assets/Scenes/08_maze2.unity
+    guid: f425ef976c7284ab2aea765697f9568b
+  - enabled: 1
+    path: Assets/Scenes/08_maze3.unity
+    guid: 55329695ef132475c91dd2ba1d5a1670
+  - enabled: 1
+    path: Assets/Scenes/08_maze4.unity
+    guid: e5be35d82b0534ff194c1ae6e0a1d2a5
+  - enabled: 1
+    path: Assets/Scenes/08_maze5.unity
+    guid: 55bcd8423c33d492185bba80875473e1
+  - enabled: 1
+    path: Assets/Scenes/08_maze6.unity
+    guid: 5b58fcfac2db14b6ca61adfed2d07c00
+  - enabled: 1
+    path: Assets/Scenes/09_mazeAQ1.unity
+    guid: f1ed08b2c1cb8e3468896709aef68955
+  - enabled: 1
+    path: Assets/Scenes/09_mazeAQ2.unity
+    guid: 1053f091a220fbd479fa4137e2a9caa9
+  - enabled: 1
+    path: Assets/Scenes/09_mazeAQ3.unity
+    guid: 092399aa951c64e468510b02a3b456dd
+  - enabled: 1
+    path: Assets/Scenes/09_mazeAQ4.unity
+    guid: 37d4867750802194aab0105366287462
+  - enabled: 1
+    path: Assets/Scenes/09_mazeBQ1.unity
+    guid: 292efff143bc56143975fdc58a7fbf20
+  - enabled: 1
+    path: Assets/Scenes/09_mazeBQ2.unity
+    guid: 44c39489a4ecabf419f1045638f4628c
+  - enabled: 1
+    path: Assets/Scenes/09_mazeBQ3.unity
+    guid: 1aebff16a5c05d947a71cd392ef37891
+  - enabled: 1
+    path: Assets/Scenes/09_mazeBQ4.unity
+    guid: b4426b88684d1a8449e576d68b6eb054
+  - enabled: 1
+    path: Assets/Scenes/09_mazeCQ1.unity
+    guid: af15fc51cd612024fadec10e48c9958e
+  - enabled: 1
+    path: Assets/Scenes/09_mazeCQ2.unity
+    guid: 53e92e27b1e507a4e8850a906ab88f4b
+  - enabled: 1
+    path: Assets/Scenes/09_mazeCQ3.unity
+    guid: 451d92cf6f6f01f4dac310df918aa2b9
+  - enabled: 1
+    path: Assets/Scenes/09_mazeCQ4.unity
+    guid: 817c1e7548b924b4c9b9a22111a75e9f
+  - enabled: 1
+    path: Assets/Scenes/09_mazeDQ1.unity
+    guid: 4e672750b2e401945ba983326d076639
+  - enabled: 1
+    path: Assets/Scenes/09_mazeDQ2.unity
+    guid: efd15624d7675f44da14984acad845d2
+  - enabled: 1
+    path: Assets/Scenes/09_mazeDQ3.unity
+    guid: 54c29bcd374af8942ba600b096c85e8e
+  - enabled: 1
+    path: Assets/Scenes/09_mazeDQ4.unity
+    guid: 51c2b8f7a2a2d8147b7e1b5edc042e24
+  - enabled: 1
+    path: Assets/Scenes/09_mazeEQ1.unity
+    guid: fd17f1d006e65334c9b8d7ee62cd2234
+  - enabled: 1
+    path: Assets/Scenes/09_mazeEQ2.unity
+    guid: 6317d27e53d58b547ae753afc2bf07da
+  - enabled: 1
+    path: Assets/Scenes/09_mazeEQ3.unity
+    guid: 268b177ed9db94743aa867444bccc55c
+  - enabled: 1
+    path: Assets/Scenes/09_mazeEQ4.unity
+    guid: 5f41bf4d1963d5a46837c0f8c6ed0c9a
+  - enabled: 1
+    path: Assets/Scenes/09_mazeFQ1.unity
+    guid: 2c64e6b92af44cc4196146d8d13742be
+  - enabled: 1
+    path: Assets/Scenes/09_mazeFQ2.unity
+    guid: 7e4026dc119f1604898a41ded56e6761
+  - enabled: 1
+    path: Assets/Scenes/09_mazeFQ3.unity
+    guid: 6ee561dad5bfaac4c8494e9c4a6dcc6f
+  - enabled: 1
+    path: Assets/Scenes/09_mazeFQ4.unity
+    guid: 0030fae98e44820409356bfa3e3bf91e
+  - enabled: 1
+    path: Assets/Scenes/09_mazeGQ1.unity
+    guid: fb82850a45f22bc489bfc7d949a62830
+  - enabled: 1
+    path: Assets/Scenes/09_mazeGQ2.unity
+    guid: 90926b87835883e4ca35027be5335558
+  - enabled: 1
+    path: Assets/Scenes/09_mazeGQ3.unity
+    guid: f8832a3d7bce7d045999491572015d63
+  - enabled: 1
+    path: Assets/Scenes/09_mazeGQ4.unity
+    guid: eb602c8da3ac8684699d8dfb1e914d8c
+  - enabled: 1
+    path: Assets/Scenes/09_mazeHQ1.unity
+    guid: ce746b1ab95ba9448974280666fad665
+  - enabled: 1
+    path: Assets/Scenes/09_mazeHQ2.unity
+    guid: 95b6f7df23f03dc41b285f990285b908
+  - enabled: 1
+    path: Assets/Scenes/09_mazeHQ3.unity
+    guid: 8e9a077c139bfb7489b69d620ebcfecc
+  - enabled: 1
+    path: Assets/Scenes/09_mazeHQ4.unity
+    guid: 2c400b4d258f09b42a3d78427d295e59
+  - enabled: 1
+    path: Assets/Scenes/09_mazeIQ1.unity
+    guid: fe4b03a858d291f40a70a4ea5fcd5871
+  - enabled: 1
+    path: Assets/Scenes/09_mazeIQ2.unity
+    guid: 023f426aedd8ab74fa2e394ef7350733
+  - enabled: 1
+    path: Assets/Scenes/09_mazeIQ3.unity
+    guid: a0b9a88c6890e0e47a0c97f95d36caac
+  - enabled: 1
+    path: Assets/Scenes/09_mazeIQ4.unity
+    guid: db8362bb91a26aa43bee5331fcfbfc00
+  - enabled: 1
+    path: Assets/Scenes/09_mazeAQ0.unity
+    guid: 89dda88854a7b4b42a37c25ae3a3d46f
+  - enabled: 1
+    path: Assets/Scenes/09_mazeBQ0.unity
+    guid: 3cc79b5e7a13a9d41a3b2bc36681aa2e
+  - enabled: 1
+    path: Assets/Scenes/09_mazeCQ0.unity
+    guid: c667a6ff427cd34428abfb8324f9ce8a
+  - enabled: 1
+    path: Assets/Scenes/09_mazeDQ0.unity
+    guid: b71bc39c8f486d54995f381080f1cb75
+  - enabled: 1
+    path: Assets/Scenes/10_mazeIQ0.unity
+    guid: 2c314498cc3a56145b8f612267f65541
+  - enabled: 1
+    path: Assets/Scenes/10_maze_miniLeft.unity
+    guid: 95ce77b098c38a54bb641ae18294951b
+  - enabled: 1
+    path: Assets/Scenes/10_maze_High.unity
+    guid: 1473fa7749d5a344cb7faf1c7d526bf1
+  - enabled: 1
+    path: Assets/Scenes/10_maze_miniRight.unity
+    guid: 23e0a3f1bd1bfee4386a601e60fb90c8
+  - enabled: 1
+    path: Assets/Scenes/13_maze1 2.unity
+    guid: 1f81c978522d327499b6d9d3ec5a9cb5
+  - enabled: 1
+    path: Assets/Scenes/13_maze1 3.unity
+    guid: 3822bbb3d28628241af6174aad20b8cb
+  - enabled: 1
+    path: Assets/Scenes/13_maze1 4.unity
+    guid: a230ccc282d18c2438db751870f0890b
+  - enabled: 1
+    path: Assets/Scenes/13_maze1 5.unity
+    guid: dcf63a71301078644a79b03cababd397
+  - enabled: 1
+    path: Assets/Scenes/13_maze1 6.unity
+    guid: eada0654ce10ded4c98608abf2d2318e
+  - enabled: 1
+    path: Assets/Scenes/13_maze1 7.unity
+    guid: 4151edc544ad7fe4ba048b5b891d8a95
+  - enabled: 1
+    path: Assets/Scenes/13_maze1 8.unity
+    guid: e6e2d1c5b7625c94b9b55b802ba6c475
+  - enabled: 1
+    path: Assets/Scenes/13_maze1 9.unity
+    guid: 5ffdce67566dddf408d4122dc4014151
+  - enabled: 1
+    path: Assets/Scenes/13_maze1 10.unity
+    guid: 04f9547aac0ea7042a8edf25342af4f7
+  - enabled: 1
+    path: Assets/Scenes/11_LeaderboardUI.unity
+    guid: ce1a63413952e1e4780a7a3d8069eb82
+  m_configObjects: {}
